@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISTA422Exercise", "ISTA422Exercise\ISTA422Exercise.csproj", "{3DF93D00-C519-4CE7-BD25-6F39574C5339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISTA422Exercise.Data", "ISTA422Exercise.Data\ISTA422Exercise.Data.csproj", "{4092E7E3-053A-4BF7-B0DF-02063BFC2D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF93D00-C519-4CE7-BD25-6F39574C5339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF93D00-C519-4CE7-BD25-6F39574C5339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF93D00-C519-4CE7-BD25-6F39574C5339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF93D00-C519-4CE7-BD25-6F39574C5339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4092E7E3-053A-4BF7-B0DF-02063BFC2D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4092E7E3-053A-4BF7-B0DF-02063BFC2D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4092E7E3-053A-4BF7-B0DF-02063BFC2D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4092E7E3-053A-4BF7-B0DF-02063BFC2D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB694F1-55FE-4F9B-9D1E-7178C0DC6D40}
+	EndGlobalSection
+EndGlobal

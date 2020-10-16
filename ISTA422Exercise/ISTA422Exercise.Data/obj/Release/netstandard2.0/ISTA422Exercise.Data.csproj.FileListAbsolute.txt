@@ -1,0 +1,9 @@
+C:\Users\wwstudent\Desktop\quatico06\ISTA_422\Exercises\ISTA422Exercise\ISTA422Exercise.Data\bin\Release\netstandard2.0\ISTA422Exercise.Data.deps.json
+C:\Users\wwstudent\Desktop\quatico06\ISTA_422\Exercises\ISTA422Exercise\ISTA422Exercise.Data\bin\Release\netstandard2.0\ISTA422Exercise.Data.dll
+C:\Users\wwstudent\Desktop\quatico06\ISTA_422\Exercises\ISTA422Exercise\ISTA422Exercise.Data\bin\Release\netstandard2.0\ISTA422Exercise.Data.pdb
+C:\Users\wwstudent\Desktop\quatico06\ISTA_422\Exercises\ISTA422Exercise\ISTA422Exercise.Data\obj\Release\netstandard2.0\ISTA422Exercise.Data.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\quatico06\ISTA_422\Exercises\ISTA422Exercise\ISTA422Exercise.Data\obj\Release\netstandard2.0\ISTA422Exercise.Data.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Desktop\quatico06\ISTA_422\Exercises\ISTA422Exercise\ISTA422Exercise.Data\obj\Release\netstandard2.0\ISTA422Exercise.Data.AssemblyInfo.cs
+C:\Users\wwstudent\Desktop\quatico06\ISTA_422\Exercises\ISTA422Exercise\ISTA422Exercise.Data\obj\Release\netstandard2.0\ISTA422Exercise.Data.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\quatico06\ISTA_422\Exercises\ISTA422Exercise\ISTA422Exercise.Data\obj\Release\netstandard2.0\ISTA422Exercise.Data.dll
+C:\Users\wwstudent\Desktop\quatico06\ISTA_422\Exercises\ISTA422Exercise\ISTA422Exercise.Data\obj\Release\netstandard2.0\ISTA422Exercise.Data.pdb

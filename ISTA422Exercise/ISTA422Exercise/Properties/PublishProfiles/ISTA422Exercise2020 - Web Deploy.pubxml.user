@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASo9tiad9MECZ2dFpKgDrhQAAAAACAAAAAAAQZgAAAAEAACAAAADPHHTeL+ANr4r8ZuicNerLg2v7HQhH/+gYQPGdKyJn4wAAAAAOgAAAAAIAACAAAAC/Vh7KX/nMed/iHV8hjRF/EUnJiPiqGlwADjnRlOKIKIAAAAB3ej01sAxEsb/X01aWs048c+ZZqkTQEmUfJ3wyAlJk0N8SM36KmGfSwlVnkODyYWt3m0AtzsPeZ80NBXuskNxO+IKpg06qtH6TlSvv5J2OOlj7qORUTBVrnfSoBWJu6tlYtyd6t7eWNMtVon6MjRYlN/Q4LL4ZctnG59hduaS0FUAAAABzXsKm7MKs75B3UWMUSyOImSTpo7uweQHJj9DE2EgNVwyfqKkAhZXv+sOfWq0hqMZbH5/NbanQI2n7eGQDtJ/D</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=%28LocalDb%29\MSSQLLocalDb%3bDatabase=People%3bTrusted_Connection=True%3bMultipleActiveResultSets=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ISTA422Exercise.Data.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:ista422exercisedbserver.database.windows.net,1433%3bInitial Catalog=ISTA422Exercise_db%3bUser Id=aburnleylvx%40ista422exercisedbserver%3bPassword=M%40lcolm08!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
